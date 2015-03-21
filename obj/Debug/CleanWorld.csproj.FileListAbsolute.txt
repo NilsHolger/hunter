@@ -1,0 +1,6 @@
+c:\users\nils\documents\visual studio 2013\Projects\CleanWorld\CleanWorld\bin\CleanWorld.dll.config
+c:\users\nils\documents\visual studio 2013\Projects\CleanWorld\CleanWorld\bin\CleanWorld.dll
+c:\users\nils\documents\visual studio 2013\Projects\CleanWorld\CleanWorld\bin\CleanWorld.pdb
+c:\users\nils\documents\visual studio 2013\Projects\CleanWorld\CleanWorld\obj\Debug\CleanWorld.csprojResolveAssemblyReference.cache
+c:\users\nils\documents\visual studio 2013\Projects\CleanWorld\CleanWorld\obj\Debug\CleanWorld.dll
+c:\users\nils\documents\visual studio 2013\Projects\CleanWorld\CleanWorld\obj\Debug\CleanWorld.pdb
